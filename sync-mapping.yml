@@ -1,0 +1,12 @@
+---
+admin_staff: # Group Name. Found with mmctl group list-ldap
+  planet-express: # Team Name
+    finance: # Channel Name
+    angrydome: enforce
+  internal: # An empty team connects the group to the team
+  only-admins: enforce
+
+ship_crew: #another group
+  planet-express:
+    current-mission: enforce
+    hanger:
