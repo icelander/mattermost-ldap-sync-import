@@ -4,12 +4,6 @@
 
 You want to automate linking AD/LDAP groups to Mattermost LDAP Group Sync
 
-## TODO
-
-- [x] Read sync-mapping.yml
-- [x] Link teams and groups
-- [x] Add team/channel membership enforcement
-
 ## Solution
 
 ### 0. Read this document completely
